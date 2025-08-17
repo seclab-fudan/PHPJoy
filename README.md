@@ -1,2 +1,2 @@
-# PHPJOY Artifacts
+# PHPJoy Artifacts
 The paper is currently under review, and to prevent unintended or malicious behaviors, its artifacts are temporarily accessible only to reviewers. Upon acceptance, we will make its artifacts open-source in this repository.
