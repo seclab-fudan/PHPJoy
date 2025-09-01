@@ -1,0 +1,12 @@
+{
+  "name": "phpjoern-astbuilder",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+  ],
+  "require": {
+    "league/csv": "^9.16",
+    "php": ">=8.1.0"
+  }
+}

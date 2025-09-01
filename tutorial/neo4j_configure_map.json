@@ -1,0 +1,10 @@
+{
+  "example": {
+    "NEO4J_HOST": "127.0.0.1",
+    "NEO4J_PORT": 17474,
+    "NEO4J_USERNAME": "neo4j",
+    "NEO4J_PASSWORD": "123",
+    "NEO4J_DATABASE": "neo4j",
+    "NEO4J_PROTOCOL": "http"
+  }
+}
